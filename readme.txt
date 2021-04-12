@@ -1,4 +1,4 @@
 git begin.
 git is free software.
 
-new & commit.
+new and commit.
